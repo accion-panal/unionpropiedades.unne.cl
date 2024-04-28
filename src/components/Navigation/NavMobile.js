@@ -49,7 +49,7 @@ const NavMobile = ({ data = navigationData, onClickClose }) => {
       <div className="py-6 px-5">
       {/* <span className='font-bold text-6xl text-primary uppercase'>Logo</span> */}
           <a href='/inicio' smooth="true" >
-            <img src={LogoMobile} className='w-14 h-10'/>
+            <img src={LogoMobile} className='w-16 h-10'/>
           </a>
 
         <span className="absolute right-2 top-2 p-1 ">

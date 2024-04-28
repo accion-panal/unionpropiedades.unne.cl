@@ -23,7 +23,7 @@ const ContactComp = () =>{
   }, [ZoneInMap, isLoading]);
     return(
         <Section>
-            <div className="grid grid-cols-1 xl:grid-cols-2 gap-1 my-14 mt-16 w-full">
+            <div className="grid grid-cols-1 lg:grid-cols-2 gap-1 my-14 mt-16 w-full">
                 <div className="col-span-1 flex justify-center p-4">
                     <MeetingForm 
                         title="Contáctanos"
