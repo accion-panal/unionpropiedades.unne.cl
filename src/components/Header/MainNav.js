@@ -11,7 +11,7 @@ const MainNav = () => {
         <div className="flex justify-start flex-grow items-center space-x-3 sm:space-x-8 lg:space-x-10">
           {/* <Logo /> */}
           <a href='/inicio' smooth="true" >
-            <img src={HeaderLogo} className='w-20 h-12 lg:w-24 lg:h-16 xl:w-16 xl:h-20'/>
+            <img src={HeaderLogo} className='w-20 h-12 lg:w-24 lg:h-16 xl:w-24 xl:h-16'/>
           </a>
           {/* <span className='font-bold text-6xl text-primary uppercase'>Logo</span> */}
         </div>
